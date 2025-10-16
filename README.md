@@ -1,4 +1,4 @@
-<img width="401" height="414" alt="image" src="https://github.com/user-attachments/assets/23b7c6ac-ce29-4a70-8af0-e95ccfc8102b" />🎮 BacklogG - API de Gerenciamento de Jogos e Reviews
+🎮 BacklogG - API de Gerenciamento de Jogos e Reviews
 Uma API RESTful desenvolvida em Spring Boot para gerenciar uma biblioteca de jogos e suas respectivas avaliações.
 
 📋 Índice
