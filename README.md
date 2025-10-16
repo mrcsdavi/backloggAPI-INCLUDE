@@ -1,4 +1,4 @@
-🎮 BacklogG - API de Gerenciamento de Jogos e Reviews
+<img width="401" height="414" alt="image" src="https://github.com/user-attachments/assets/23b7c6ac-ce29-4a70-8af0-e95ccfc8102b" />🎮 BacklogG - API de Gerenciamento de Jogos e Reviews
 Uma API RESTful desenvolvida em Spring Boot para gerenciar uma biblioteca de jogos e suas respectivas avaliações.
 
 📋 Índice
@@ -109,24 +109,8 @@ Exemplo de Erro 404
     "message": "Jogo com ID 999 não foi encontrado."
 }
 
-ESTRUTURA DO PROJETO: 
-src/
-├── main/
-│   ├── java/
-│   │   └── com/davi/backlogg/
-│   │       ├── controller/
-│   │       │   ├── JogoController.java
-│   │       │   └── ReviewController.java
-│   │       ├── exceptions/
-│   │       │   ├── GlobalExceptionHandler.java
-│   │       │   ├── NaoEncontradoException.java
-│   │       │   └── ReviewNaoEncontradaException.java
-│   │       ├── models/
-│   │       │   ├── Jogo.java
-│   │       │   └── Review.java
-│   │       └── BackloggApplication.java
-│   └── resources/
-│       └── application.properties
+<img width="401" height="414" alt="image" src="https://github.com/user-attachments/assets/6412b69f-aa89-431f-a441-16424a8dd30c" />
+
 
 🔧 Modelos de Dados
 CONTROLLER JOGO
