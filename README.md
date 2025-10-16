@@ -1,19 +1,14 @@
 🎮 Backlogg - API de Gerenciamento de Jogos e Reviews
 Uma API RESTful desenvolvida em Spring Boot para gerenciar uma biblioteca de jogos e suas respectivas avaliações.
 
-🚀 Funcionalidades
-✅ CRUD de jogos
-✅ Sistema de reviews com notas e comentários
-✅ Reviews organizadas por jogo
-✅ IDs sequenciais automáticos para reviews
-✅ Tratamento de exceções personalizado
-✅ Validação de recursos existentes
+<img width="359" height="138" alt="image" src="https://github.com/user-attachments/assets/44b4b3d6-9d7d-4cb9-9bdc-ddfebcac223a" />
+
 
 🛠 Tecnologias
-Java 17+
-Spring Boot 3.x
-Maven
-Lombok
+Java 17+;
+Spring Boot 3.x;
+Maven;
+Lombok;
 RESTful API
 
 📋 Pré-requisitos
