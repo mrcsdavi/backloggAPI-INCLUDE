@@ -5,15 +5,15 @@ Uma API RESTful desenvolvida em Spring Boot para gerenciar uma biblioteca de jog
 
 
 🛠 Tecnologias
-Java 17+; 
+-Java 17+; 
 
-Spring Boot 3.x; 
+-Spring Boot 3.x; 
 
-Maven; 
+-Maven; 
 
-Lombok; 
+-Lombok; 
 
-RESTful API 
+-RESTful API 
 
 📋 Pré-requisitos
 Java 17 ou superior
