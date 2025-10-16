@@ -5,11 +5,15 @@ Uma API RESTful desenvolvida em Spring Boot para gerenciar uma biblioteca de jog
 
 
 🛠 Tecnologias
--Java 17+; 
--Spring Boot 3.x; 
--Maven; 
--Lombok; 
--RESTful API 
+Java 17+; 
+
+Spring Boot 3.x; 
+
+Maven; 
+
+Lombok; 
+
+RESTful API 
 
 📋 Pré-requisitos
 Java 17 ou superior
@@ -78,6 +82,7 @@ Exemplo de Erro 404
 
 
 🔧 Modelos de Dados
+
 CONTROLLER JOGO
 
 {
