@@ -47,25 +47,7 @@ Foi usado Postman para testes
 ////
 📚 Endpoints
 
-🎯 Controller dos Jogos
-Método	Endpoint	Descrição
-GET	/jogos	Lista todos os jogos
-GET	/jogos/{id}	Busca jogo por ID
-POST	/jogos	Cria um novo jogo
-PUT	/jogos/{id}	Atualiza jogo existente
-DELETE	/jogos/{id}	Remove jogo
-
-📝 Controller das Reviews
-Método	Endpoint	Descrição
-GET	/reviews	Lista todas as reviews
-GET	/reviews/{id}	Busca review por ID
-GET	/reviews/jogo/{jogoId}	Lista reviews de um jogo específico
-GET	/reviews/jogo/{jogoId}/review/{reviewId}	Busca review específica de um jogo
-POST	/reviews	Cria uma nova review
-POST	/reviews/jogo/{jogoId}	Cria review para jogo específico
-POST	/reviews/jogo/{jogoId}/review/{reviewId}	Vincula review existente a jogo
-DELETE	/reviews/{id}	Remove review
-DELETE	/reviews/jogo/{jogoId}/review/{reviewId}	Remove review específica de um jogo
+<img width="714" height="437" alt="image" src="https://github.com/user-attachments/assets/39556d63-a437-4b3e-b9d5-f458c68481be" />
 
 💡 Exemplos de Uso
 1. Criando um Jogo
