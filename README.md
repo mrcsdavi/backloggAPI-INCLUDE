@@ -1,4 +1,4 @@
-🎮 BacklogG - API de Gerenciamento de Jogos e Reviews
+🎮 Backlogg - API de Gerenciamento de Jogos e Reviews
 Uma API RESTful desenvolvida em Spring Boot para gerenciar uma biblioteca de jogos e suas respectivas avaliações.
 
 📋 Índice
