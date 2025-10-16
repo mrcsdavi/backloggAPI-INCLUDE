@@ -86,6 +86,7 @@ Exemplo de Erro 404
 CONTROLLER JOGO
 
 {
+    
     "id": Long,
     "titulo": String,
     "genero": String,
