@@ -43,6 +43,7 @@ POST http://localhost:8080/jogos
 Content-Type: application/json
 
 {
+
     "titulo": "The Legend of Zelda: Breath of the Wild",
     "genero": "Aventura",
     "plataforma": "Nintendo Switch",
@@ -72,6 +73,7 @@ A API retorna respostas padronizadas para erros:
 
 Exemplo de Erro 404
 {
+    
     "timestamp": "2024-01-15T10:30:00",
     "status": 404,
     "error": "Jogo não encontrado",
@@ -98,6 +100,7 @@ CONTROLLER JOGO
 CONTROLLER REVIEW
 
 {
+   
     "id": Long,
     "Nota_Usuario": int (0-10),
     "Comentario_Usuario": String,
